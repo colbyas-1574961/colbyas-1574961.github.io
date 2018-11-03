@@ -1,0 +1,22 @@
+h1 {
+	color: #001;
+	text-decoration: none;
+	letter-spacing: 3px;
+	text-shadow: 3px 2px purple;
+}
+
+h2 {
+	color: blue;
+	letter-spacing: 3px;
+	text-shadow: 3px 2px black;
+	text-decoration:none;
+}
+
+h3 {
+	color: red;
+	letter-spacing: 2px;
+	text-shadow: 3px 2px blue;
+	text-decoration: none;
+}
+
+
